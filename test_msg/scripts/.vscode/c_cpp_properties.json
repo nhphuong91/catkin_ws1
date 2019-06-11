@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/nhphuong/catkin_ws/devel/include",
+        "/opt/ros/melodic/include",
+        "/home/nhphuong/catkin_ws/src/beginner_tutorials/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
